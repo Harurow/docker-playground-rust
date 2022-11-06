@@ -18,6 +18,7 @@
 
 以下のVisual Studio Code 拡張をインストール
 
+* EditorConfig.EditorConfig
 * rust-lang.rust-analyzer
 
 ## 使い方
